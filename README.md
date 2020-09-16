@@ -5,6 +5,8 @@
 In this analysis I have used unsupervised learning approach (K-medoid Clustering) to detect how the prospect of some mid-level jobs have been declining for the last several years, and what would be the state-level exposure in terms of unemployment.
 ## [Application of Remotely Sensed (RS) data to monitor SDG](https://www.thedailystar.net/opinion/news/using-satellites-get-the-real-picture-development-1915501)
 In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
+## Bangladesh Export Basket Over the Last 50 Years
+<div class="flourish-embed flourish-chart" data-src="visualisation/3642060" data-url="https://flo.uri.sh/visualisation/3642060/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## [Chicago Crime (Theft) Hotspots in 2018](https://rpubs.com/ifteresearch/ChicagoCrime)
 In this visualization, I have used R to map Crime hotspots, i.e., where most of the thefts took place in Chicago in 2018.
 ## [A tale of two counties - How the voting preferences are different in Dallas and Harris counties?](https://www.linkedin.com/pulse/tale-two-counties-iftekhairul-islam/?trackingId=%2FUSDHASSQHWHsh%2FUrrMMkA%3D%3D)
@@ -30,13 +32,9 @@ In this study I found how the small cities and MSAs are convenienly safe from th
 Here, I have analyesd NASA VIIRS NightTimeLIght satellite images and showed how the economic development in Bangladesh has been non-honmogeneous around the country
 ## [Relief-optimization during Covid-19 Pandemic in Bangladesh](https://iftekhairul-islam.github.io/Relief_Optimization/)
 Here, I would like to propose a rough guideline on how to mobiize food grains in different parts of Bangladesh taking into consideartion the existing poverty level, current and upcoming yeilds, and the density of population.
-## test 
-<div class="flourish-embed flourish-survey" data-src="visualisation/3219386" data-url="https://flo.uri.sh/visualisation/3219386/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ```html
 const add = (a, b) => a790ulkhlkerhgtlkherlkhgt97097et09er7t09t7 + b;onst add = (a, b) => aonst add = (a, b) => aonst add = (a, b) => aonst add = (a, b) => a>
 ```
-## Bangladesh Export Basket Over the Last 50 Years
-<div class="flourish-embed flourish-chart" data-src="visualisation/3642060" data-url="https://flo.uri.sh/visualisation/3642060/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ## [Linkedin](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
 

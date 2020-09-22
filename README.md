@@ -1,7 +1,7 @@
 # Iftekhairul Islam, PhD      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://iftekhairul-islam.github.io/CV/)
 **Political Economist, Data Scientist, Spatial and RS Data Analyst, Data Story Teller**
 ## [Dhaka City Digital Map- First of it's Kind!!!](http://analytixbd.com/)
-![Dhaka](Dhaka.jpg)
+![Dhaka](Dhaka.JPG)
 This is the very first digital visualization of Dhaka, the capital of Bangladesh. It would not only help the government organizations like city corporation for assessing and collecting tax, fire department for emergency evacuation and disaster management, police department to pinpoint high crime areas, RAJUK for illegal development control, BBS for the census but also this digital technology would assist private sectors with real-time market survey, real estate valuation and rental price, finding suitable locations for social amenities and business setups or comparing living conditions of different areas.
 
 ## [Impact of AI and ML algorithms on Employment: A State-level Analysis](https://arxiv.org/abs/2001.02783)

@@ -14,7 +14,7 @@ In this visualization, I have used R to map Crime hotspots, i.e., where most of 
 ![Chicago](Chicago.PNG)
 ## [A tale of two counties - How the voting preferences are different in Dallas and Harris counties?](https://www.linkedin.com/pulse/tale-two-counties-iftekhairul-islam/?trackingId=%2FUSDHASSQHWHsh%2FUrrMMkA%3D%3D)
 Here, I have used areal interpolation (Kriging) to get precinct level demographics, income, racial data from the census block groups and run RandomForest algorithm to detect the most important attributes that influence voting choice in 2016 Presidential election in Dallas and Harris counties.
-![Dallas](Dallas.png)
+![Dallas](Dallas.png)![Harris](Harris.png)
 ## [Rohingya Camp: A Timelapse Satellite Imge Compilation](https://github.com/Iftekhairul-Islam/Rohingya/)
 Here, I have shown how the Rohingya camp site was chnaged in just two years in between 2016 to 2018.
 ## [Data Stories- Decades of Changes Visualized in Minutes!!!](https://medium.com/@iftekharshajib/data-stories-1f08804153eb)

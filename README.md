@@ -9,6 +9,7 @@ In this analysis I have used unsupervised learning approach (K-medoid Clustering
 In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
 ## Bangladesh Export Basket Over the Last 50 Years
 <div class="flourish-embed flourish-chart" data-src="visualisation/3642060" data-url="https://flo.uri.sh/visualisation/3642060/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Please, press the 'Rank' button on the upper left corner
 ## [Chicago Crime (Theft) Hotspots in 2018](https://rpubs.com/ifteresearch/ChicagoCrime)
 In this visualization, I have used R to map Crime hotspots, i.e., where most of the thefts took place in Chicago in 2018.
 ![Chicago](Chicago.PNG)

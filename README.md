@@ -11,6 +11,7 @@ In this newpaper article I proposed a gudeline how Bangladesh could take advanta
 <div class="flourish-embed flourish-chart" data-src="visualisation/3642060" data-url="https://flo.uri.sh/visualisation/3642060/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## [Chicago Crime (Theft) Hotspots in 2018](https://rpubs.com/ifteresearch/ChicagoCrime)
 In this visualization, I have used R to map Crime hotspots, i.e., where most of the thefts took place in Chicago in 2018.
+![Chicago](Chicago.PNG)
 ## [A tale of two counties - How the voting preferences are different in Dallas and Harris counties?](https://www.linkedin.com/pulse/tale-two-counties-iftekhairul-islam/?trackingId=%2FUSDHASSQHWHsh%2FUrrMMkA%3D%3D)
 Here, I have used areal interpolation (Kriging) to get precinct level demographics, income, racial data from the census block groups and run RandomForest algorithm to detect the most important attributes that influence voting choice in 2016 Presidential election in Dallas and Harris counties.
 ## [Rohingya Camp: A Timelapse Satellite Imge Compilation](https://github.com/Iftekhairul-Islam/Rohingya/)

@@ -37,7 +37,7 @@ In this study I found how the small cities and MSAs are convenienly safe from th
 ![Covid](covid.PNG)
 ## [A NightTimeLight Satellite Image Analysis](https://iftekhairul-islam.github.io/NightTimeLight/)
 Here, I have analyesd NASA VIIRS NightTimeLIght satellite images and showed how the economic development in Bangladesh has been non-honmogeneous around the country
-![night](night.png)
+![night](night.jpg)
 ## [Relief-optimization during Covid-19 Pandemic in Bangladesh](https://iftekhairul-islam.github.io/Relief_Optimization/)
 Here, I would like to propose a rough guideline on how to mobiize food grains in different parts of Bangladesh taking into consideartion the existing poverty level, current and upcoming yeilds, and the density of population.
 

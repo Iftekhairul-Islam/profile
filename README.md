@@ -8,7 +8,7 @@ In this analysis I have used unsupervised learning approach (K-medoid Clustering
 ![State](health.png)
 ## [Application of Remotely Sensed (RS) data to monitor SDG](https://www.thedailystar.net/opinion/news/using-satellites-get-the-real-picture-development-1915501)
 In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
-## [Bangladesh Export Basket Over the Last 50 Years]
+## Bangladesh Export Basket Over the Last 50 Years
 <div class="flourish-embed flourish-chart" data-src="visualisation/3642060" data-url="https://flo.uri.sh/visualisation/3642060/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Please, press the ***'Ranks'*** button on the upper left corner
 ## [Chicago Crime (Theft) Hotspots in 2018](https://rpubs.com/ifteresearch/ChicagoCrime)
@@ -19,7 +19,9 @@ Here, I have used areal interpolation (Kriging) to get precinct level demographi
 ![Dallas](Dallas.png)![Harris](Harris.png)
 ## [Rohingya Camp: A Timelapse Satellite Imge Compilation](https://github.com/Iftekhairul-Islam/Rohingya/)
 Here, I have shown how the Rohingya camp site was chnaged in just two years in between 2016 to 2018.
-## [Data Stories- Decades of Changes Visualized in Minutes!!!](https://medium.com/@iftekharshajib/data-stories-1f08804153eb)
+## [Data Stories- Decades of Changes Visualized in Minutes!!!]
+<div class="flourish-embed flourish-chart" data-src="visualisation/925409" data-url="https://flo.uri.sh/visualisation/925409/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Please, press the ***'Ranks'*** button on the upper left corner
 Here, I have tried to show interactively how different social, political, and economic dynamics changed course over time. I have used cutting edge data visualization techniques to make sense of variables.
 ## [Dhaka: An Urban Journey Towards Doom](https://medium.com/@iftekharshajib/dhaka-an-urban-journey-towards-doom-4655679192fb)
 In this satellite-image analysis, I detect how the urbanization trajectory of Dhaka, the capital of Bangladesh, took a nose-dive in the last 20 years.

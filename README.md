@@ -24,6 +24,7 @@ Here, I have shown how the Rohingya camp site was chnaged in just two years in b
 Please, press the ***'Ranks'*** button on the upper left corner
 <br />Here, I have tried to show interactively how different social, political, and economic dynamics changed course over time. I have used cutting edge data visualization techniques to make sense of variables.
 ## [Dhaka: An Urban Journey Towards Doom](https://medium.com/@iftekharshajib/dhaka-an-urban-journey-towards-doom-4655679192fb)
+![DHK](dhkctLC.jpg)
 In this satellite-image analysis, I detect how the urbanization trajectory of Dhaka, the capital of Bangladesh, took a nose-dive in the last 20 years.
 ## Twitter Data Analysis (upcoming)
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis 

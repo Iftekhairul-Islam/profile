@@ -3,6 +3,8 @@
 ## [Dhaka City Digital Map- First of it's Kind!!!](http://analytixbd.com/)
 This is the very first digital visualization of Dhaka, the capital of Bangladesh. It would not only help the government organizations like city corporation for assessing and collecting tax, fire department for emergency evacuation and disaster management, police department to pinpoint high crime areas, RAJUK for illegal development control, BBS for the census but also this digital technology would assist private sectors with real-time market survey, real estate valuation and rental price, finding suitable locations for social amenities and business setups or comparing living conditions of different areas.
 ![Dhaka](Dhaka.PNG)
+## [Race-wise Map of Crime Incidents in the City of Dallas in 2021](https://rpubs.com/ifteresearch/DallasCrime)
+In this visualization, I have shown the location of all the crimes that took place in the city of Dallas in 2021. I also showed the race/ethnicity of the arrestees.
 ## [Impact of AI and ML algorithms on Employment: A State-level Analysis](https://arxiv.org/abs/2001.02783)
 In this analysis I have used unsupervised learning approach (K-medoid Clustering) to detect how the prospect of some mid-level jobs have been declining for the last several years, and what would be the state-level exposure in terms of unemployment.
 ![State](health.png)

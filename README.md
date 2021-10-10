@@ -5,6 +5,7 @@ This is the very first digital visualization of Dhaka, the capital of Bangladesh
 ![Dhaka](Dhaka.PNG)
 ## [Race-wise Map of Crime Incidents in the City of Dallas in 2021](https://rpubs.com/ifteresearch/DallasCrime)
 In this visualization, I have shown the location of all the crimes that took place in the city of Dallas in 2021. I also showed the race/ethnicity of the arrestees.
+![Crime locations in Dallas](DallasCrime.PNG)
 ## [Impact of AI and ML algorithms on Employment: A State-level Analysis](https://arxiv.org/abs/2001.02783)
 In this analysis I have used unsupervised learning approach (K-medoid Clustering) to detect how the prospect of some mid-level jobs have been declining for the last several years, and what would be the state-level exposure in terms of unemployment.
 ![State](health.png)
